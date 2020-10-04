@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.exe
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.deps.json
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.dll
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.pdb
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.dll
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.pdb
+C:\ProgramasCSharp\ConceitoDeInterface\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.genruntimeconfig.cache
